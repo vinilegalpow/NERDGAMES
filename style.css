@@ -1,0 +1,42 @@
+body {
+	background: #00BFFF;
+}
+
+#catalogar {
+ height: -webkit-fill-available;
+ padding-left: 60px;
+background-position: right;: #000000
+
+}
+
+h1{
+	text-align: center;
+	height: 50px;
+	border: 5px solid;
+}
+
+
+p {
+	text-align: center;
+}
+
+#mario {
+	height: 400px;
+	background-color: #000000;
+
+}
+#megaman{
+	height: 400px;
+}
+#SESSAO_NERD{
+	color: #FF4500;
+
+}
+#NOVIDADES_DA_SEMANA{
+color: #00FF00;
+
+}
+#kratos{
+  height: 400px;
+}
+
